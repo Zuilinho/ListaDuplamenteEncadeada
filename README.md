@@ -1,2 +1,3 @@
 # ListaDuplamenteEncadeada
- Uma lista duplamente encadeada em Java.
+ 
+ Trabalho realizado pelos estudantes Luan Magalhaes e Luiz Filho pela disciplina de Estrutura de dados da PUCPR.
